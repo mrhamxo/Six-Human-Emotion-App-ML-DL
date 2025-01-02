@@ -14,19 +14,6 @@ A comprehensive Streamlit-based application that predicts human emotions from te
 - **User-Friendly Interface**:
   - Built with Streamlit for an interactive and intuitive user experience.
 
-## 📂 Project Structure
-
-emotion-detection-app/
-├── models/
-│   ├── dl_model.h5            # Deep Learning model
-│   ├── rfc_model.pkl          # Random Forest Classifier model
-│   ├── tfidf_vectorizer.pkl   # TF-IDF vectorizer
-│   ├── vocab_info.pkl         # Vocabulary info for deep learning model
-│   ├── label_encoder.pkl      # Label encoder for emotion categories
-├── app.py                     # Main Streamlit application
-├── requirements.txt           # Python dependencies
-└── README.md                  # Project documentation
-
 ## 💡 Usage
 
 1. Launch the app using the above command.
